@@ -1,4 +1,4 @@
-# My-first
+# My-course.edu
 A console-based **Java SE project** for managing students, courses, enrollments, grades, transcripts, and file utilities.  
 This project demonstrates **OOP principles, Java Streams, NIO.2, Date/Time API, exception handling, design patterns (Singleton, Builder), enums, and recursion**.
 
